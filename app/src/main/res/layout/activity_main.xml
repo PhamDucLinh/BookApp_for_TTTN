@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/skipBtn"
         android:layout_marginBottom="10dp"
-        android:text="Login"
+        android:text="Login as Admin"
         android:background="@drawable/shape_button01"
         android:textColor="@color/white"/>
 
@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:background="@drawable/shape_button02"
-        android:text="Continue Without Login"
+        android:text="Login as User"
         android:textColor="@color/purple_500"/>
 
 </RelativeLayout>
